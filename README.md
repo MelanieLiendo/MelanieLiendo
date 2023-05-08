@@ -3,4 +3,4 @@
 🌱 I'm a junior full-stack developer who has just graduated from a developer course at Barcelona Code School <br>
 
 
-⚡  Skills: React NextJS JavaScript TypeScript NodeJS Express MongoDB Python HTML CSS
+⚡  Skills: HTML CSS  React.js JavaScript Node.js Express.js ReactNative MongoDB 
